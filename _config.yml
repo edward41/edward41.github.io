@@ -6,7 +6,7 @@ baseurl: ""
 
 # This will show up at the top of index page
 site_heading: >
-    <span class="faded">edward41's blog</span>
+    <a class="faded">edward41's blog</a>
 
 email: edward41@naver.com
 author: edward41
